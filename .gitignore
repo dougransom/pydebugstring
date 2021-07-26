@@ -1,0 +1,6 @@
+#flit build stuf
+./dist/
+.idea/
+**/.idea
+**.pyc
+dist/
